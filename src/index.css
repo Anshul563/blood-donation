@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+    /* background: url('./components/Hero/7.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; */
+    font-family: "Roboto Condensed", sans-serif;
+}
